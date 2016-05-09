@@ -3,7 +3,7 @@ A PHP resource to display a random case from The Mumonkon aka The Gateless Gate
 
 ## Usage
 
-Extract the contents of the src folder (gate.php and the gateless folder) somehwere into your project.
+Extract gate.php and the gateless folder somehwere into your project.
 
 Call gate.php somewhere in your script with something like this:
 
