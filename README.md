@@ -13,4 +13,4 @@ Then call to the gateless function to display the random case file with somethin
 
     <?php echo $gateless ?>
 
-Please see the included example.
+Please see the included index.php example.
